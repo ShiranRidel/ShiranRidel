@@ -13,15 +13,15 @@ Currently open for full-time/intern job roles in Full Stack & frontend developme
 - 🔭 I’m currently working on **Full Stack projects** & **Front-end projects**
 - ⚛ I’m currently learning **React.js and NodeJS**
 - 💼 How to reach me in: [LinkedIn - @shiranridel](https://www.linkedin.com/in/shiran-ridel-48b457169/)
-- 📫 How to reach me in : [email - @shiranridel](shiranridel90@gmail.com)
+- 📫 How to reach me in : [email - @shiranridel](mailto:shiranridel90@gmail.com)
 
 
 ### Skills
 
 - Languages - `Javascript`, HTML, CSS & `SCSS`
-- Frameworks - `ReactJS` & `Angular` 
-- Databases - MySql & MongoDB
-- Tools and Technologies - Git, NPM, Yarn, Github, heroku
+- Frameworks - `ReactJS` & Angular 
+- Databases - MySql & `MongoDB`
+- Tools and Technologies - NPM, Yarn, `Github`, heroku
 - Areas for interests - `Web Development`, `Frontend Development` & `UI Design/Development` 
 
 
