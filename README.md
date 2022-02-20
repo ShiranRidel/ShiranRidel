@@ -7,7 +7,7 @@
 Currently open for full-time/intern job roles in Full Stack & frontend development
 ```
 
-<h3>I'm Shiran Ridel, a passionate FrontEnd Web Developer from Israel</h3>
+<h3>I'm Shiran Ridel, a passionate Full Stack Web Developer from Israel</h3>
 
 - 👀 I’m interested in **React.js and NodeJS** development
 - 🔭 I’m currently working on **Full Stack projects** & **Front-end projects**
