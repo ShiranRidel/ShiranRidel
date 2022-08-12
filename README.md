@@ -19,8 +19,8 @@ Currently open for full-time/intern job roles in Full Stack & frontend developme
 ### Skills
 
 - Languages - `Javascript`, HTML, CSS & `SCSS`
-- Frameworks - `ReactJS` & Angular 
-- Databases - MySql & `MongoDB`
+- Frameworks - `ReactJS`  
+- Databases - `MongoDB`
 - Tools and Technologies - NPM, Yarn, `Github`, heroku
 - Areas for interests - `Web Development`, `Frontend Development` & `UI Design/Development` 
 
